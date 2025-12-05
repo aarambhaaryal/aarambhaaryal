@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stacks  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python,js,html,css,nodejs,php,mysql,postgresql,mongodb,threejs,git,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,js,html,css,php,mysql,postgresql,mongodb,git,linux" />
 </p>
 
 <p align="center">
